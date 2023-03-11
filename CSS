@@ -2,6 +2,12 @@ html {
   height: 100%;
   width: 100%;
 }
+ * {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
 
 body {
   font-size: 14px;
@@ -411,17 +417,59 @@ button.v90_15 {
 	width:548px;
 	height:101px;
 	font-family:Akshar;
-	text-align:left;
-	font-size:32px;
+	font-size:24px;
 	letter-spacing:0;
+  position: absolute;
+  left: 45%;
 }
-.ei474_222_48_15 { 
+.e310_179 {
+  font-family: Akshar;
+  color: #000;
+  font-size: 24px;
+  position: absolute;
+  left: 45%;
+  top: 70%;
+}
+.ei391_152_48_36 { 
+	background-color:rgba(0, 108.00001636147499, 169.00000512599945, 0.7200000286102295);
+	width:166px;
+	height:41px;
+	border-radius:10px;
+  position: absolute;
+  left: 80%;
+  top: 4.75%
+}
+
+
+span.ei474_222_48_15 { 
 	transform: rotate(90.15654546603449deg);
 	width:366.0013732910156px;
 	height:0px;
+  text-align: right;
 }
 div.i474_222_48_15 { 
 	border:1px solid rgba(0, 0, 0, 1);
 }
-
+span.acessar_como {
+  font-family: Akshar;
+  color: #ffffff;
+  font-size: 24px;
+  position: absolute;
+  left: 81%;
+  top: 5%;
+}
+div.rodape {
+  background-color: #c4c4c4;
+  height: 100px;
+  width: 100%;
+  font-size: Akshar;
+  color: #000;
+  position: absolute;
+  top: 95%;
+}
+.Encontre {
+  background-color: #453bce;
+  font-size: 32px;
+  font-family: Georgia;
+}
 </style>
