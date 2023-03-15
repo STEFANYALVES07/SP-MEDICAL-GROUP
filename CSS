@@ -22,6 +22,35 @@ div.v44_4 {
   left: 0px;
   overflow: hidden;
 }
+.img {
+  width:75px;
+	height:55px;
+  position: absolute;
+  left: 69px;
+  top: 38px;
+}
+.imga {
+  position: absolute;
+  left: 10px;
+  top: 47.5%;
+}
+.imgb {
+  position: absolute;
+  left: 5.5px;
+  top: 5.5%;
+}
+.imgc {
+  position: absolute;
+  left: 15.5%;
+  top: 5.5%;
+}
+.imgd {
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  left: 35.5%;
+  top: 5.5%;
+}
 div.v48_30 {
   width: 172px;
   height: 140px;
@@ -138,7 +167,7 @@ span.v48_11 {
 .name {
   color: #fff;
 }
-button.v48_26 {
+.v48_26 {
   width: 136px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -150,7 +179,7 @@ button.v48_26 {
   opacity: 1;
   text-align: left;
 }
-button.v48_28 {
+.v48_28 {
   width: 154px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -162,7 +191,7 @@ button.v48_28 {
   opacity: 1;
   text-align: left;
 }
-button.v48_29 {
+.v48_29 {
   width: 155px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -174,7 +203,7 @@ button.v48_29 {
   opacity: 1;
   text-align: left;
 }
-button.v90_13 {
+.v90_13 {
   width: 155px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -186,7 +215,7 @@ button.v90_13 {
   opacity: 1;
   text-align: left;
 }
-button.v90_14 {
+.v90_14 {
   width: 175px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -198,7 +227,7 @@ button.v90_14 {
   opacity: 1;
   text-align: left;
 }
-button.v90_15 {
+.v90_15 {
   width: 181px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -427,8 +456,8 @@ button.v90_15 {
   color: #000;
   font-size: 24px;
   position: absolute;
-  left: 45%;
-  top: 70%;
+  left: 44.95%;
+  top: 72%;
 }
 .ei391_152_48_36 { 
 	background-color:rgba(0, 108.00001636147499, 169.00000512599945, 0.7200000286102295);
@@ -458,9 +487,9 @@ span.acessar_como {
   left: 81%;
   top: 5%;
 }
-div.rodape {
+.rodape {
   background-color: #c4c4c4;
-  height: 100px;
+  height: 150px;
   width: 100%;
   font-size: Akshar;
   color: #000;
@@ -468,8 +497,37 @@ div.rodape {
   top: 95%;
 }
 .Encontre {
-  background-color: #453bce;
-  font-size: 32px;
+  color: #000000;
+  font-size: 28px;
   font-family: Georgia;
+  position: absolute;
+  left: 7.5%;
+  top: 56.75%;
 }
-</style>
+.AgendeA {
+  color: #000000;
+  font-size: 28px;
+  font-family: Georgia;
+  position: absolute;
+  top: 61.5%;
+  left: 7.5%;
+  margin-top: 10px;
+}
+.AgendeB {
+  color: #000000;
+  font-size: 28px;
+  font-family: Georgia;
+  position: absolute;
+  top: 67.5%;
+  left: 7.5%;
+  margin-top: 10px;
+}
+.Resultado {
+  color: #000000;
+  font-size: 28px;
+  font-family: Georgia;
+  position: absolute;
+  top: 73.5%;
+  left: 7.5%;
+  margin-top: 10px;
+}
